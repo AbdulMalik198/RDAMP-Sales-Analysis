@@ -7,6 +7,9 @@
 
 This project was carried out to analyze Ace Superstore’s performance across **regions, customer buying behaviour, and product profitability**, using data from the **RDAMP program**. The goal was to identify key sales drivers, regional gaps, channel performance, and high-margin opportunities to guide future strategy.
 
+![Ace1](https://github.com/user-attachments/assets/868a0b22-0a4a-40c1-9eff-6b836c8ff8e3)
+
+
 ---
 
 ### **Data Sources**
@@ -59,6 +62,10 @@ Top Selling Products Table
 
 Least Underperforming Products Table (Customer Behaviour page) 
 
+ ![Ace3](https://github.com/user-attachments/assets/60c8f3f5-d733-4b63-8133-5f27745970fc)
+
+
+---
  
 
 # 2. Insights into Product Categories with Highest Margins 
@@ -83,7 +90,12 @@ Category Profitability Table
 
 Revenue vs Profit Scatter Plot 
 
- 
+![Ace4](https://github.com/user-attachments/assets/bbb380fa-bed6-4d9d-b3c2-c190378dfc57)
+
+
+
+---
+
 
 # 3. Sales Distribution across Order Mode (Online vs In-Store) 
 
@@ -103,6 +115,7 @@ Visualization Supporting This Insight:
 
 Donut Chart: Sum of Revenue by Order Mode 
 
+---
  
 
 # 4.Findings and Recommendations 
