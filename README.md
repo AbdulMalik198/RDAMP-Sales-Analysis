@@ -1,14 +1,31 @@
 # RDAMP-Sales-Analysis
- Here is a report that presents a clear overview of regional sales performance, customer behaviour, and product  profitability for Ace Superstore, using Power BI dashboard insights.
-Ace Superstore Performance Dashboard – Storytelling Report 
 
-# Introduction 
+## Ace Superstore Performance Dashboard – Storytelling Report 
 
+
+### **Project Overview**
+
+This project was carried out to analyze Ace Superstore’s performance across **regions, customer buying behaviour, and product profitability**, using data from the **RDAMP program**. The goal was to identify key sales drivers, regional gaps, channel performance, and high-margin opportunities to guide future strategy.
+
+---
+
+### **Data Sources**
+
+* The primary dataset for this analysis was provided through the **RDAMP program**, covering sales transactions, product categories, revenue, profit, and order modes across different UK regions.
+
+
+### **Tools Used**
+
+* **Microsoft Excel** — used for **data cleaning**, validation, and ensuring consistent fields before analysis.
+* **Microsoft Power BI** — used to **design interactive dashboards**, create measures using DAX, and generate clear visual insights for decision-making.
+
+
+### Exploratory Data Analysis - Introduction 
 This report presents an overview of regional sales performance, customer purchasing behavior, and product profitability for Ace Superstore, using a Power BI dashboard as the core reporting tool. The goal is to identify key performance drivers, underperforming areas, and actionable opportunities for strategic decision-making. 
 
  
 
-# Key Insights 
+### Key Insights 
 
 # 1. Top 5 Best-Selling and Underperforming Products 
 
